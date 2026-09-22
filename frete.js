@@ -1,1 +1,4 @@
-function calcularFrete(valorPedido) { return valorPedido + 30.00; // Regiao Norte
+<<<<<<< HEAD
+function calcularFrete(valorPedido) {
+return valorPedido + 25.00; }
+>>>>>>> feature/frete-sul
