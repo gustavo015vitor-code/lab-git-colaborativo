@@ -1,1 +1,1 @@
-function calcularFrete(valorPedido) { return valorPedido + 15.00;  Frete padrao inicial
+22.00: function calcularFrete(valorPedido) { return valorPedido + 22.00; // Regiao Sul
